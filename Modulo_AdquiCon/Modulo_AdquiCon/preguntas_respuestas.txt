@@ -1,5 +1,0 @@
-Como te llamas?|Me llamo Chatbot.
-Como estas?|Bien, gracias. Y tu?
-Bien tambien|Me alegra. Hay algo mas de lo que quieras saber?
-¿Cómo estas?|Bien, ¿Y tú qué tal?
-¿Cómo estás?|Bien, ¿Y tú qué tal?
